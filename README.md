@@ -13,12 +13,16 @@ I am a dedicated web developer & software engineer, Specializing in
 >  **Programming Skills**
 > - [PHP](#php) 
 > - [JavaScript](#javascript) 
-> - [Database](#database)
+> - [DataBase](#database)
 > - [WordPress](#wordpress)
 > - [Payment Gateway](#payment-gateway)
 > - [Deployment](#deployment)
 > - [SEO](#seo)
 > - [Marketing](#marketing)
+> 
+>  **About Me**
+> - [Repository Structure](#my-repository-naming-convention) 
+> - [Personal Information](#personal-information)
   
 ## PHP 
 I have the following PHP/ Database skills:
@@ -26,7 +30,7 @@ I have the following PHP/ Database skills:
 - Framework: ⭐LARAVEL
 - Frontend: ⭐Bootstrap, ⭐Email & PDF Formatting,⭐Font Awsome
 - Backend: ⭐Jquery, Ajax, ⭐JWT⭐Rest API
-<br>
+
 [Back to Table of contents](#table-of-contents)
 
 ---
@@ -36,14 +40,16 @@ I have the following JavaScript skills:
 - Libraries: ⭐React.JS, ⭐Vue.JS
 - Frontend: ⭐Vuetify, Bootstrap,⭐Material Icons
 - Backend: ⭐Axios, ⭐Node.js, Express ⭐JWT⭐Rest API, Vuex, Vue-router, ⭐Redux, ⭐React-router-dom
-<br>
+
 [Back to Table of contents](#table-of-contents)
+
 ---
 ##  DataBase
 - ⭐MongoDB
 - ⭐MySql
-<br>
+
 [Back to Table of contents](#table-of-contents)
+
 ---
 ## WordPress
 I am also Acquainted with WordPress with the following skills:
@@ -51,15 +57,17 @@ I am also Acquainted with WordPress with the following skills:
 - Plugins Specialized: ⭐Elementor,⭐ Woocommerce, ⭐Payment Gateway
 - Custom works: ⭐Remove Add to cart, ⭐Registration verification
 - Additional skills: ⭐Backup, ⭐Security, ⭐JS/ CSS optimization, ⭐Migration
-<br>
+
 [Back to Table of contents](#table-of-contents)
+
 ---
 ## Payment Gateway
 I have the following ⭐Payment Gateway skills:
 - ⭐aamarPay
 - ⭐Stripe.
-<br>
+
 [Back to Table of contents](#table-of-contents)
+
 ---
 ## Deployment
 Here are my DEPLOYMENT skills:
@@ -69,8 +77,9 @@ Here are my DEPLOYMENT skills:
 - CDN for media
 - AWS failover, Backup
 - Load balancer, Floating IP
-<br>
+
 [Back to Table of contents](#table-of-contents)
+
 ---
 ## SEO
 Below I have listed My SEO Skills:
@@ -80,8 +89,9 @@ Below I have listed My SEO Skills:
 - SSL certificates
 - Sitemap & Robots.txt customization
 - Google search console, Bing webmaster, Yandex webmaster site setup
-<br>
+
 [Back to Table of contents](#table-of-contents)
+
 ---
 ## Marketing
 I have also listed My Marketing Skills:
@@ -90,14 +100,19 @@ I have also listed My Marketing Skills:
 - Twitter Marketing
 - LinkedIn Marketing
 - WhatsApp Marketing
-<br>
+
 [Back to Table of contents](#table-of-contents)
+
 ---
 ## My repository naming convention 
 > **dependency-category-of-application-purpose**
 
 > **For example:** *React-blog-material-ui-showcase* 
 
+[Back to Table of contents](#table-of-contents)
+
+---
+# Personal Information
 <details>
 <summary>Academic Achievements</summary>
 - BSC in Computer Science | BRAC University<br>
@@ -148,27 +163,10 @@ in addition to: <br>
 </details>
 
 > # Contact Me 
-<div style='display: flex; justify-content: center;'>
-<a href='https://www.facebook.com/masudalimran93/'>
-<i class="fa-brands fa-facebook fa-xl" style='width: 30px'></i>
-</a>
-<a href='https://wa.me/8801315686147'>
-<i class="fa-brands fa-whatsapp fa-xl" style='width: 30px'></i>
-</a>
-<a href='mailto:masudalimran93@gmail.com'>
-<i class="fa-solid fa-envelope fa-xl" style='width: 30px'></i>
-</a>
-<a href='https://join.skype.com/invite/WvaOoJNh3Aqb'>
-<i class="fa-brands fa-skype fa-xl" style='width: 30px'></i>
-</a>
-<a href='https://github.com/masudalimran'>
-<i class="fa-brands fa-github fa-xl" style='width: 30px'></i>
-</a>
-<a href='www.linkedin.com/in/masud-al-imran'>
-<i class="fa-brands fa-linkedin fa-xl" style='width: 30px'></i>
-</a>
-<a href='https://twitter.com/masudalimran1'>
-<i class="fa-brands fa-twitter fa-xl" style='width: 30px'></i>
-</a>
-</div>
-
+> - Facebook: [https://www.facebook.com/masudalimran93/](https://www.facebook.com/masudalimran93/)
+> - WhatsApp: [+880 1315686147](https://wa.me/8801315686147)
+> - Email: [masudalimran93@gmail.com](mailto:masudalimran93@gmail.com)
+> - Skype: [masudalimran92](https://join.skype.com/invite/WvaOoJNh3Aqb)
+> - Github: [https://github.com/masudalimran](https://github.com/masudalimran)
+> - LinkedIn: [www.linkedin.com/in/masud-al-imran](www.linkedin.com/in/masud-al-imran)
+> - Twitter: [https://twitter.com/masudalimran1](https://twitter.com/masudalimran1)
