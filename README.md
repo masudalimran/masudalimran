@@ -1,3 +1,4 @@
+## MY REPO Naming Convention - dependency-categoryOfApp-purpose
 I am a dedicated web developer & software engineer, Specializing in LARAVEL FRAMEWORK & DATABASE DESIGN, WordPress web design, SEO & deployment With the following skills in the arsenal.
 ✅Education: B.Sc. In CSE (BRAC UNIVERSITY)
 -------------------------------------------------------------------------------------------------------
@@ -46,3 +47,4 @@ Here are my DEPLOYMENT skills:
 ✅ CDN for media
 ✅ AWS failover, Backup
 ✅ Load balancer, Floating IP
+
