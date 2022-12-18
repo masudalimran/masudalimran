@@ -1,164 +1,78 @@
-# Hi! I Am **MASUD AL IMRAN**
+# Intro
+*I am a Software Engineer & Full Stack Web Developer currently working for [BISMIB TECHNOLOGY](https://bismibtechnology.com/) as a web developer & designer since 2019. 
+Over time I have managed to raise my skill on various technologies which span from front end to back end.*
 
-I am a dedicated web developer & software engineer, Specializing in
+> Education: B.Sc. (achelor of Science) in CS (Computer Science) From BRAC UNIVERSITY
 
-1.  LARAVEL FRAMEWORK & DATABASE DESIGN,
-1.  WordPress web design,
-1.  SEO & deployment With
+ # Front End
 
-
-> # Table of Contents
->  **Programming Skills**
-> - [PHP](#php) 
-> - [JavaScript](#javascript) 
-> - [DataBase](#database)
-> - [WordPress](#wordpress)
-> - [Payment Gateway](#payment-gateway)
-> - [Deployment](#deployment)
-> - [SEO](#seo)
-> - [Marketing](#marketing)
-> 
->  **About Me**
-> - [Repository Structure](#my-repository-naming-convention) 
-> - [Personal Information](#personal-information)
-  
-## PHP 
-I have the following PHP/ Database skills:
-- Programming Languages:⭐PHP, ⭐Blade Template
-- Framework: ⭐LARAVEL
-- Frontend: ⭐Bootstrap, ⭐Email & PDF Formatting,⭐Font Awsome
-- Backend: ⭐Jquery, Ajax, ⭐JWT⭐Rest API
-
-[Back to Table of contents](#table-of-contents)
-
+- I am good at core HTML, CSS and have expertise in popular JavaScript frontend frameworks such as React.js, Vue.js.
+- Iam also proficient in Material UI, Bootstrap and Tailwind CSS.
+- Some projects I worked on resembling my front-end skills 
+    📦 [eCommerce Fashion Site Using React](https://www.youtube.com/watch?v=caJMHzrFEB8&ab_channel=BISMIBTECHNOLOGY)
+    📦 [Authentication & Tik-Tak-Toe Captcha (MERN Project)](https://www.youtube.com/watch?v=KeTALo5Wxqs&ab_channel=BISMIBTECHNOLOGY)
+      📦 [eCommerce Pharmacy site work progress of order/ checkout using React](https://www.youtube.com/watch?v=sQQRvdnsHHU&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Blog site using React](https://www.youtube.com/watch?v=PgbATFnpHDU&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Portfolio site created using Vue.Js](https://www.youtube.com/watch?v=vctwznTMDlY&ab_channel=BISMIBTECHNOLOGY)
+      📦 [eCommerce site with Material UI 5](https://www.youtube.com/watch?v=bMb3SZIbSEI&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Product Filter using React](https://www.youtube.com/watch?v=gHQ1fql-pss&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Lazy load notification (Mern Project)](https://www.youtube.com/watch?v=nED7j7BNcNw&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Language and currency change handle using React](https://www.youtube.com/watch?v=zv4xvxhL0Rk&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Forgot password management (Mern Project)](https://www.youtube.com/watch?v=_WQVN290rvo&ab_channel=BISMIBTECHNOLOGY)
+-------------------------------------------------------------------------------------------------------
+# Back End
+- I have expertise in both MERN (MongoDB, Express, React and Node) stack & LAMP (Linux, Apache, MySQL, and PHP.) which makes a proficient back-end developer with excellent skill in both Laravel & Node.js/ Express.js
+- Some projects I worked on resembling my front-end skills
+      📦 [Blocking Functionality in MERN Project](https://www.youtube.com/watch?v=Qk2PqZV_fIw&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Smooth cart addition & checkout management in an eCommerce site in a Mern Project](https://www.youtube.com/watch?v=caJMHzrFEB8&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Report Management in Admin Panel (Mern Project)](https://www.youtube.com/watch?v=_RlU20oExJ4&ab_channel=BISMIBTECHNOLOGY)
+      📦 [eCommerce Site using Laravel (Lamp Project)](https://www.youtube.com/watch?v=nLmMBLZHiFI&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Product Popularity Analytics in Admin Panel (Mern Project)](https://www.youtube.com/watch?v=MGJTZyabC0k&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Web settings management in admin panel (Mern Project)](https://www.youtube.com/watch?v=saGUSTkA8G4&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Payment Methods Management in Admin Panel (Mern Project)](https://www.youtube.com/watch?v=IYiw76JTlW8&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Managing reviews in admin panel (Mern Project)](https://www.youtube.com/watch?v=45x9W3YZcys&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Managing Products in Admin Panel (Mern Project)](https://www.youtube.com/watch?v=_Ve40W4OM-M&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Delivery Methods Management in Admin Panel (Mern Project)](https://www.youtube.com/watch?v=w1rIFVvqKJw&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Customer Details in Admin Panel (Mern Project)](https://www.youtube.com/watch?v=ZXm6DAf6xuo&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Blog Management in Admin Panel (Mern Project)](https://www.youtube.com/watch?v=rNbctthnT9g&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Backup Management in Admin Panel (Mern Project)](https://www.youtube.com/watch?v=mrYIO9G43Lc&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Admin & Role Management in Admin Panel (MERN Project)](https://www.youtube.com/watch?v=FMbmyf1jPM8&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Fetching & Handling Requests Node, Express & Axios](https://www.youtube.com/watch?v=_WQVN290rvo&ab_channel=BISMIBTECHNOLOGY)
 ---
-## JavaScript
-I have the following JavaScript skills:
-- Programming Languages: ⭐Javascript
-- Libraries: ⭐React.JS, ⭐Vue.JS
-- Frontend: ⭐Vuetify, Bootstrap,⭐Material Icons
-- Backend: ⭐Axios, ⭐Node.js, Express ⭐JWT⭐Rest API, Vuex, Vue-router, ⭐Redux, ⭐React-router-dom
+# Other Skills
+### WordPress Development
+- I have worked on various WordPress projects
+      📦 [Medicine For World (MFW)](https://mfw.com.bd/)
+      📦 [XENNO | Get Premium Shoes Collection in Bangladesh](https://xenno.shop/)
+      📦 [BISMIB FASHION - BE SATISFIED (For Bangladeshi viewers)](https://bismibfashion.com/)
+      📦 [BISMIB FASHION Alternative for non-Bangladeshi viewers](https://alternate.bismibfashion.com/)
+      📦 [E-Life Saving Medicine](https://bd.elifesavingmedicine.com/)
+      📦 [Hiring Platform | Job Confirm](https://bismibtechnology.com/portfolio/wordpress-job-confirm/)
+      📦 [eCommerce Crockeries Shop](https://bismibtechnology.com/portfolio/wordpress-crockeriespark-com/)
+### Deployment Skill
+- I am proficient in dev ops and have expertise in deployment of VPS and Shared host in platforms such as
+      📦 AWS,
+      📦 Google Cloud Platform,
+      📦 Digital Ocean,
+      📦 Bluehost and many more.
 
-[Back to Table of contents](#table-of-contents)
-
----
-##  DataBase
-- ⭐MongoDB
-- ⭐MySql
-
-[Back to Table of contents](#table-of-contents)
-
----
-## WordPress
-I am also Acquainted with WordPress with the following skills:
-- CMS:⭐WordPress
-- Plugins Specialized: ⭐Elementor,⭐ Woocommerce, ⭐Payment Gateway
-- Custom works: ⭐Remove Add to cart, ⭐Registration verification
-- Additional skills: ⭐Backup, ⭐Security, ⭐JS/ CSS optimization, ⭐Migration
-
-[Back to Table of contents](#table-of-contents)
-
----
-## Payment Gateway
-I have the following ⭐Payment Gateway skills:
-- ⭐aamarPay
-- ⭐Stripe.
-
-[Back to Table of contents](#table-of-contents)
-
----
-## Deployment
-Here are my DEPLOYMENT skills:
-- AWS EC2 server setup with/ without managed database
-- Digital Ocean Droplet setup with/ without managed database
-- Separate storage setup for media
-- CDN for media
-- AWS failover, Backup
-- Load balancer, Floating IP
-
-[Back to Table of contents](#table-of-contents)
-
----
-## SEO
-Below I have listed My SEO Skills:
-- On-Page SEO
-- Off-Page SEO
-- White hat do-follow backlinks
-- SSL certificates
-- Sitemap & Robots.txt customization
-- Google search console, Bing webmaster, Yandex webmaster site setup
-
-[Back to Table of contents](#table-of-contents)
-
----
-## Marketing
-I have also listed My Marketing Skills:
-- Email Marketing
-- Facebook Marketing
-- Twitter Marketing
-- LinkedIn Marketing
-- WhatsApp Marketing
-
-[Back to Table of contents](#table-of-contents)
-
----
-## My repository naming convention 
-> **dependency-category-of-application-purpose**
-
-> **For example:** *React-blog-material-ui-showcase* 
-
-[Back to Table of contents](#table-of-contents)
-
----
-# Personal Information
-<details>
-<summary>Academic Achievements</summary>
-- BSC in Computer Science | BRAC University<br>
-- Former active member | BRAC Science Club
-  <details>
-    <summary>Projects</summary>
-<h3>Project Captain</h3>
-Sep 2016 - Oct 2016 <br>
-I was in charge of a University project that required us to develop an app that could listen to a guitar tone and detect the node that is strung. We used Arduino & a sound sensor to build it.
-<hr>
-<h3>
-Project Engineer</h3>
-Oct 2017 - Nov 2017 <br>
-I with a couple of other teammates worked on a project where we built an app that could detect light or darkness in the room. We built it using an Arduino chip.
-<hr>
-<h3>Undergraduate Researcher</h3>
-Jan 2018 - Dec 2018 <br>
-Our project was to create an App that will use API provided from the connected smartwatch and constantly monitor users calory, blood pressure & heart rate. Any unusual reading will cause an alarm that will allow the user as well family members that were selected to receive the alarm. This would be beneficial to heart disease patients as the alarm will allow other family members to take him to the doctor as soon as possible.
-<hr>
-  </details>
-</details>
-
-<details>
-<summary>
-Job Experience
-</summary>
-<h3>Network Engineer</h3>
-<h5><a href='https://mdmbd.net/'>MDM TRADERS LTD</a></h5>
-2nd Floor, H# 125, R#25, Mohakhali DOHS, Dhaka, Bangladesh<br>
-Dec 2018 - May 2020 <br>
-Job responsibilities:<br>
-✅ Router & switch installation maintenance<br>
-✅ Radio device configuration & troubleshoot<br>
-✅ IP configuration
-<hr>
-<h3>Web Developer</h3>
-<h5><a href='https://bismibtechnology.com/'>BISMIB TECHNOLOGY</a></h5>
-7th Floor, H# DCC 1, Momin Shoroni Road, North Ibrahimpur,Dhaka, Bangladesh<br>
-May 2020 - Present <br>
-Job responsibilities:<br>
-✅ Develop eCommerce website in WordPress<br>
-✅ Build custom eCommerce web application using Laravel, React.Js, and/ or Vue.Js<br>
-✅ Server deployment AWS, Digital Ocean, Google Cloud<br>
-in addition to: <br>
-✅ Search engine Optimization<br>
-✅ Digital Marketing<br>
-<hr>
-</details>
+### Mobile App Dev
+- I have started accumulating mobile app development skills in react native. I do not have much to show at the moment but will work on large projects soon. Just to give you a gist of my skill check this one out.
+      📦 [Mobile App Demo || React Native](https://www.youtube.com/watch?v=ULXHG_XDm70&ab_channel=BISMIBTECHNOLOGY)
+### Graphics Design
+- I am not an expert, but I do have basic skill set of video & image editing and graphics design.
+- I have edited videos in Adobe Premiere Pro
+- Videos created using ANIMAKER
+      📦 [BISMIB TECHNOLOGY | Company Overview](https://www.youtube.com/watch?v=aNejH-b7zf4&ab_channel=BISMIBTECHNOLOGY)
+      📦 [Which Browser should web developers use. (Firefox vs Google Chrome vs Edge)](https://www.youtube.com/watch?v=OXmVneMNm5E&ab_channel=BISMIBTECHNOLOGY)
+      📦 [BISMIB TECHNOLOGY profile overview](https://www.youtube.com/watch?v=3xdqx3E3U08&ab_channel=BISMIBTECHNOLOGY)
+- Banner & Post Design mostly using Canva
+      📦 [Project Show Case](https://photos.app.goo.gl/UrC1R2QRqQbzKLcn7)
+      📦 [Offer banner](https://photos.app.goo.gl/hXPk7hKS2uoLaKxF9)
+      📦 [Price table](https://photos.app.goo.gl/KSSGWcaioWp2wGnK7)
+      📦 [Eid Card](https://photos.app.goo.gl/qJyGRdN6UkL1vWvv7)
+### Marketing Skills
+- I have basic knowledge of Social Media Marketing; SEO & I am known for my presentation skills. If we get to meet visually via zoom you might be able to tell.
 
 ---
 > # Contact Me 
