@@ -9,16 +9,16 @@ Over time I have managed to raise my skill on various technologies which span fr
 - I am good at core HTML, CSS and have expertise in popular JavaScript frontend frameworks such as React.js, Vue.js.
 - Iam also proficient in Material UI, Bootstrap and Tailwind CSS.
 - Some projects I worked on resembling my front-end skills 
-    📦 [eCommerce Fashion Site Using React](https://www.youtube.com/watch?v=caJMHzrFEB8&ab_channel=BISMIBTECHNOLOGY)
-    📦 [Authentication & Tik-Tak-Toe Captcha (MERN Project)](https://www.youtube.com/watch?v=KeTALo5Wxqs&ab_channel=BISMIBTECHNOLOGY)
-      📦 [eCommerce Pharmacy site work progress of order/ checkout using React](https://www.youtube.com/watch?v=sQQRvdnsHHU&ab_channel=BISMIBTECHNOLOGY)
-      📦 [Blog site using React](https://www.youtube.com/watch?v=PgbATFnpHDU&ab_channel=BISMIBTECHNOLOGY)
-      📦 [Portfolio site created using Vue.Js](https://www.youtube.com/watch?v=vctwznTMDlY&ab_channel=BISMIBTECHNOLOGY)
-      📦 [eCommerce site with Material UI 5](https://www.youtube.com/watch?v=bMb3SZIbSEI&ab_channel=BISMIBTECHNOLOGY)
-      📦 [Product Filter using React](https://www.youtube.com/watch?v=gHQ1fql-pss&ab_channel=BISMIBTECHNOLOGY)
-      📦 [Lazy load notification (Mern Project)](https://www.youtube.com/watch?v=nED7j7BNcNw&ab_channel=BISMIBTECHNOLOGY)
-      📦 [Language and currency change handle using React](https://www.youtube.com/watch?v=zv4xvxhL0Rk&ab_channel=BISMIBTECHNOLOGY)
-      📦 [Forgot password management (Mern Project)](https://www.youtube.com/watch?v=_WQVN290rvo&ab_channel=BISMIBTECHNOLOGY)
+    📦 [eCommerce Fashion Site Using React](https://www.youtube.com/watch?v=caJMHzrFEB8&ab_channel=BISMIBTECHNOLOGY)<br/>
+    📦 [Authentication & Tik-Tak-Toe Captcha (MERN Project)](https://www.youtube.com/watch?v=KeTALo5Wxqs&ab_channel=BISMIBTECHNOLOGY)<br/>
+      📦 [eCommerce Pharmacy site work progress of order/ checkout using React](https://www.youtube.com/watch?v=sQQRvdnsHHU&ab_channel=BISMIBTECHNOLOGY)<br/>
+      📦 [Blog site using React](https://www.youtube.com/watch?v=PgbATFnpHDU&ab_channel=BISMIBTECHNOLOGY)<br/>
+      📦 [Portfolio site created using Vue.Js](https://www.youtube.com/watch?v=vctwznTMDlY&ab_channel=BISMIBTECHNOLOGY)<br/>
+      📦 [eCommerce site with Material UI 5](https://www.youtube.com/watch?v=bMb3SZIbSEI&ab_channel=BISMIBTECHNOLOGY)<br/>
+      📦 [Product Filter using React](https://www.youtube.com/watch?v=gHQ1fql-pss&ab_channel=BISMIBTECHNOLOGY)<br/>
+      📦 [Lazy load notification (Mern Project)](https://www.youtube.com/watch?v=nED7j7BNcNw&ab_channel=BISMIBTECHNOLOGY)<br/>
+      📦 [Language and currency change handle using React](https://www.youtube.com/watch?v=zv4xvxhL0Rk&ab_channel=BISMIBTECHNOLOGY)<br/>
+      📦 [Forgot password management (Mern Project)](https://www.youtube.com/watch?v=_WQVN290rvo&ab_channel=BISMIBTECHNOLOGY)<br/>
 -------------------------------------------------------------------------------------------------------
 # Back End
 - I have expertise in both MERN (MongoDB, Express, React and Node) stack & LAMP (Linux, Apache, MySQL, and PHP.) which makes a proficient back-end developer with excellent skill in both Laravel & Node.js/ Express.js
