@@ -10,7 +10,7 @@ Over time I have managed to raise my skill on various technologies which span fr
  # Front End
 
 - I am good at core HTML, CSS and have expertise in popular JavaScript frontend frameworks such as React.js, Vue.js.
-- Iam also proficient in Material UI, Bootstrap and Tailwind CSS.
+- I am also proficient in Material UI, Bootstrap and Tailwind CSS.
 - Some projects I worked on resembling my front-end skills <br/>
     📦 [eCommerce Fashion Site Using React](https://www.youtube.com/watch?v=caJMHzrFEB8&ab_channel=BISMIBTECHNOLOGY)<br/>
     📦 [Authentication & Tik-Tak-Toe Captcha (MERN Project)](https://www.youtube.com/watch?v=KeTALo5Wxqs&ab_channel=BISMIBTECHNOLOGY)<br/>
